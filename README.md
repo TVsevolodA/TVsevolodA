@@ -5,15 +5,6 @@
 ![Dev.to blog](https://github.com/TVsevolodA/TVsevolodA/blob/main/postgresql-color.svg)
 <a><img width=25 height=25 align=center src="https://github.com/TVsevolodA/TVsevolodA/blob/main/postgresql-color.svg" />PostgreSQL</a>
 -->
-<!-- Блок статистики -->
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true"/>
-   </a>
-   <a href="https://github.com/TVsevolodA/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVsevolodA&layout=compact"/>
-   </a>
-</p>
 
 ---
 
@@ -71,7 +62,16 @@
  </li>
 </ul>
 
-
+<!-- Блок статистики -->
+<h3>Немного моей статистики:</h3>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true">
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true"/>
+   </a>
+   <a href="https://github.com/TVsevolodA/github-readme-stats">
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVsevolodA&layout=compact"/>
+   </a>
+</p>
 
 
 
