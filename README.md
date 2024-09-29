@@ -99,11 +99,9 @@ https://hendrasob.github.io/badges/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TVsevolodA)
 <a href="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true">
-   <img height=150 src="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true"/>
+   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true"/>
 </a>
-<a href="https://github.com/TVsevolodA/github-readme-stats">
-   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVsevolodA&layout=compact"/>
-</a>
+<img width=300 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVsevolodA&layout=compact"/>
 
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TVsevolodA)
