@@ -2,8 +2,10 @@
 <h3 align="center">Я являюсь студентом факультета прикладных информационных технологий СГТУ им. Гагарина Ю.А.</h3>
 
 <!--
+Полезные ссылки:
 https://simpleicons.org/
 https://shields.io/
+https://hendrasob.github.io/badges/
 -->
 
 ---
