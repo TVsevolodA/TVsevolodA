@@ -3,6 +3,7 @@
 
 <!--
 Полезные ссылки:
+https://habr.com/ru/articles/649363/
 https://simpleicons.org/
 https://shields.io/
 https://hendrasob.github.io/badges/
@@ -95,14 +96,22 @@ https://hendrasob.github.io/badges/
 
 <!-- Блок статистики -->
 <h3>Немного моей статистики:</h3>
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true"/>
-   </a>
-   <a href="https://github.com/TVsevolodA/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVsevolodA&layout=compact"/>
-   </a>
-</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TVsevolodA)
+<a href="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true">
+   <img height=150 src="https://github-readme-stats.vercel.app/api?username=TVsevolodA&show_icons=true&count_private=true"/>
+</a>
+<a href="https://github.com/TVsevolodA/github-readme-stats">
+   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVsevolodA&layout=compact"/>
+</a>
+
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TVsevolodA)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TVsevolodA)
+
+[![](https://github-readme-stats.vercel.app/api?username=TVsevolodA)](https://github.com/TVsevolodA/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TVsevolodA&layout=compact)
+-->
 
 
 
