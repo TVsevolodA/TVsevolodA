@@ -36,7 +36,7 @@ https://hendrasob.github.io/badges/
  [![General badge](https://img.shields.io/badge/Dart-2CB7F6?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
  [![General badge](https://img.shields.io/badge/Node.js-52A044?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
  [![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
- [![General badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+ [![General badge](https://img.shields.io/badge/C%23-9B4993?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 Фреймворки:
 
