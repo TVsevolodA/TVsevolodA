@@ -35,22 +35,18 @@ https://hendrasob.github.io/badges/
  [![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
  [![General badge](https://img.shields.io/badge/Dart-2CB7F6?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
  [![General badge](https://img.shields.io/badge/Node.js-52A044?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
- [![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
- [![General badge](https://img.shields.io/badge/C%23-9B4993?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 Фреймворки:
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
  [![General badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
  [![General badge](https://img.shields.io/badge/Flutter-60C9F8?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
  [![General badge](https://img.shields.io/badge/Express-384752?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/ru/)
- [![General badge](https://img.shields.io/badge/Spring_Boot-8BC34A?style=for-the-badge&logo=spring_boot&logoColor=white)](https://spring.io/projects/spring-boot)
- [![General badge](https://img.shields.io/badge/ASP.NET_Core-693F95?style=for-the-badge&logo=asp.net_core&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
 Базы данных:
 
  [![General badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
  [![General badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
- [![General badge](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 Системы контейнеризации:
 
