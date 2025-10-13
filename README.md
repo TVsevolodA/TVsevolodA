@@ -10,62 +10,68 @@ https://hendrasob.github.io/badges/
 -->
 
 ---
-
 <h3>О себе:</h3>
 
 - :📚📝🎓: На данный момент я обучаюсь в магистратуре СГТУ в городе Саратов
 - :👨‍💼📊📈📁: Я ищу работу в аккредитованной ИТ-компаний и рассматриваю должности
-[программиста-стажера](https://saratov.hh.ru/resume/bc0bd5ecff0db4b8600039ed1f444566644930) или
-[python разработчика](https://saratov.hh.ru/resume/6ea57e36ff0db5a9a30039ed1f794f464e7037)
+[AI Engineer](https://saratov.hh.ru/resume/bc0bd5ecff0db4b8600039ed1f444566644930) или
+[Backend Developer](https://saratov.hh.ru/resume/0223ed9bff0dc327b00039ed1f3863454e4978)
 
-- В свободное время занимаюсь разработкой мобильных приложений под Android. Также прорешиваю задачи на
-[LeetCode](https://leetcode.com/)
-- Изучаю литературу связанную с искусственным интеллектом, машинным обучением и большими данными
+В свободное время я:
+- Занимаюсь разработкой мобильных приложений под Android;
+- Прорешиваю задачи на [LeetCode](https://leetcode.com/);
+- Создаю агентов на базе [LangChain](https://www.langchain.com/);
+- Изучаю литературу связанную с AI, ML и Big Data.
 
-Мои контакты:
+<h5>Мои контакты:</h5>
 
-[![General badge](https://img.shields.io/badge/Email-FC401D?style=for-the-badge&logo=email&logoColor=white)](tri-vsal@yandex.ru) [![General badge](https://img.shields.io/badge/Telegram-31B8E5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TVsevolodA) [![General badge](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id319011084)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tri-vsal@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TVsevolodA)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id319011084)
 
 ---
-
 <h3>Cтек технологий:</h3>
 <p>
 Языки программирования:
- 
- [![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
- [![General badge](https://img.shields.io/badge/Dart-2CB7F6?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
- [![General badge](https://img.shields.io/badge/Node.js-52A044?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 Фреймворки:
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
- [![General badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
- [![General badge](https://img.shields.io/badge/Flutter-60C9F8?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
- [![General badge](https://img.shields.io/badge/Express-384752?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/ru/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
 Базы данных:
 
- [![General badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
- [![General badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-orange?style=for-the-badge)](https://www.trychroma.com/)
 
 Системы контейнеризации:
 
- [![General badge](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
- [![General badge](https://img.shields.io/badge/Docker_Compose-1D63ED?style=for-the-badge&logo=docker_compose&logoColor=white)](https://docs.docker.com/compose/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker-Compose](https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 
 Платформы:
 
- [![General badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
- [![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 Прочие технологии:
 
- [![General badge](https://img.shields.io/badge/Hadoop-B5A933?style=for-the-badge&logo=hadoop&logoColor=white)](https://hadoop.apache.org/)
- [![General badge](https://img.shields.io/badge/Spark-E35A15?style=for-the-badge&logo=spark&logoColor=white)](https://spark.apache.org/)
- [![General badge](https://img.shields.io/badge/Kafka-241F21?style=for-the-badge&logo=kafka&logoColor=white)](https://kafka.apache.org/)
- [![General badge](https://img.shields.io/badge/Nginx-43A047?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/ru/)
- [![General badge](https://img.shields.io/badge/ML-382B73?style=for-the-badge&logo=ml&logoColor=white)]()
- [![General badge](https://img.shields.io/badge/BigData-3088C2?style=for-the-badge&logo=bigdata&logoColor=white)]()
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white)](https://docs.pydantic.dev/latest/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&logoSize=auto)](https://www.sqlalchemy.org/)
+[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org/)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/ru/)
 </p>
 
 ---
@@ -73,20 +79,20 @@ https://hendrasob.github.io/badges/
 <h3>Мои проекты:</h3>
 <ul>
  <li>
-    
-   [Software-for-detecting-signs-of-fires-and-smoke](https://github.com/TVsevolodA/Software-for-detecting-signs-of-fires-and-smoke) - моя дипломная работа, которая заключалась в написании ПО, которое автоматизирует обнаружение и фиксацию данных о новых случаях пожара в реальном времени;
+  
+  [Сlassification-of-driving-style](https://github.com/TVsevolodA/classification-of-driving-style) - дипломная магистерская работа. Представляет собой сервис для анализа стиля вождения, который пригодится водителям для улучшения своих качеств управления транспортным средством, а также для компаний, которые хотят отслеживать манеру вождения свои сотрудников;
+ </li>
+ <li>
+  
+  [Software-for-detecting-signs-of-fires-and-smoke](https://github.com/TVsevolodA/Software-for-detecting-signs-of-fires-and-smoke) - дипломная бакалаврская работа. Представляет собой сервис, который автоматизирует обнаружение и фиксацию данных о новых случаях пожара в реальном времени;
+ </li>
+ <li>
+  
+  [AI-agent_for_working_with_Jupyter_notebook](https://github.com/TVsevolodA/AI-agent_for_working_with_Jupyter_notebook) - проект, реализующий ИИ-агента на LangChain, который может выполнять работу с Jupyter Notebook;
  </li>
  <li>
     
    [Grid_environment](https://github.com/TVsevolodA/Grid_environment) - данная работа заключалась в создании распределенной сети, которая могла распределять задачу большого объема между вычислительными узлами;
- </li>
- <li>
-   
-   [Kafka](https://github.com/TVsevolodA/Kafka) - данная работа реализовывает базовый пример работы с блокером сообщений Apache Kafka;
- </li>
- <li>
-    
-   [Circuit-Breaker](https://github.com/TVsevolodA/Circuit-Breaker) - реализация шаблона проектировния Circuit breaker на NodeJS;
  </li>
 </ul>
 
