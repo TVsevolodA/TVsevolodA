@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Всеволод 👋</h1>
-<h3 align="center">Я являюсь студентом факультета прикладных информационных технологий СГТУ им. Гагарина Ю.А.</h3>
+<h3 align="center">Я работаю бизнес-аналитиком в компании ООО "ПКФ "Бест Софт".</h3>
 
 <!--
 Полезные ссылки:
@@ -17,11 +17,7 @@ https://hendrasob.github.io/badges/
 [AI Engineer](https://saratov.hh.ru/resume/bc0bd5ecff0db4b8600039ed1f444566644930) или
 [Backend Developer](https://saratov.hh.ru/resume/0223ed9bff0dc327b00039ed1f3863454e4978)
 
-В свободное время я:
-- Занимаюсь разработкой мобильных приложений под Android;
-- Прорешиваю задачи на [LeetCode](https://leetcode.com/);
-- Создаю агентов на базе [LangChain](https://www.langchain.com/);
-- Изучаю литературу связанную с AI, ML и Big Data.
+В свободное время я разрабатываю ии-агентов и изучаю профильную литературу связанную с AI, LLM, RAG, ML и Big Data.
 
 <h5>Мои контакты:</h5>
 
